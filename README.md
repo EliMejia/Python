@@ -6,10 +6,15 @@ Es un ambiente desarrollado de Python, no necesita descarga, cuanta con distinto
 de manera facil.
 
 1.- Corre las lineas de codigo y el resultado lo muestra en pantalla.
+
 2.- Es para guarda, al presionarlo el URL cambia, se le asigna un nombre aletario que es utilizado en la nube
+
 3.- Se desacarga el programa en la computadora
+
 4.- Si fue descargado puede ser abierto desde este boton
+
 5.- Al presionarlo se guarda pero la version final sin poder ver las versiones anteriores
+
 6.- Borra lo de la consola para volver a ejecutar
 
 ## Expresiones Aritmeticas
@@ -28,11 +33,15 @@ Nota: Si no se sabe con que numero se esta trabajando esta type(numero), devuelv
 Ejemplo type(3), type(2.65)
 
 ## Operadores Aritmeticos 
-+   plus Addition
--   minus Subtraction
-*   times Multiplication
-/   divide by Division
-**  power Exponentiation
+1.- +   plus Addition
+
+2.- -   minus Subtraction
+
+3.- *   times Multiplication
+
+4.- /   divide by Division
+
+5.- **  power Exponentiation
 
 
 ## Jerarquia 
