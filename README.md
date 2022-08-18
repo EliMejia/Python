@@ -63,6 +63,29 @@ import random Numeros Aleatorios
 
 Ejemplo: math.pi
 
+## SimpleGUI
+
+Un cuadro esta compuesto por tres partes:
+
+1.- Area de control
+
+2.- Lienzo
+
+3.- Area de Estado
+
+Para que un programa sea entendible puede tener una estructura de programacion, la estructura es:
+
+- Inicializar variables globales
+- Definir funciones auxiliares
+- Definir clases
+- Definir controladores de eventos
+- Crear marco
+- Registrar controladores de eventos
+- Cuadro d einicio y temporizadores
+
+SimpleGui es una libreria que va a permitir crear y manipular todos los controladores
+de un marco se debe importar, ademas de que es posible checar la documentacion en codeskulptor.
+
 
 
 
