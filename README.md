@@ -88,25 +88,25 @@ de un marco se debe importar, ademas de que es posible checar la documentacion e
 
 
 
-## Proyectos 
+# Proyectos 
 
-# Proyecto 1
+## Proyecto 1
 https://py2.codeskulptor.org/#user49_KlyNQgQIBg_0.py
 
 
-# Proyecto 2
+## Proyecto 2
 https://py2.codeskulptor.org/#user49_tA6xqSiww8_1.py
 
 
-# Proyecto 3
+## Proyecto 3
 https://py2.codeskulptor.org/#user49_Wo4iB2m6Y5_0.py
 
 
-# Proyecto 4
+## Proyecto 4
 https://py2.codeskulptor.org/#user49_TRL5NF1oNkkXw3P.py
 
 
-# Proyecto 5
+## Proyecto 5
 https://py2.codeskulptor.org/#user49_N69Ds5GyhR2q5MA.py
        
 
