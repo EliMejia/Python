@@ -10,9 +10,9 @@
   
 #Ejemplo:
 
-      def triangle_area(base,height):
-      area=(1.0/2)*base*height
-      return area
+def triangle_area(base,height):
+   area=(1.0/2)*base*height
+    return area
     
 #Estructura: Sin Parametros
 
@@ -22,5 +22,5 @@
   
 #Ejemplo:
 
-     def hello():
-     print "Hello, word!"
+def hello():
+  print "Hello, word!"
