@@ -14,7 +14,7 @@ def keydown(key):
   global current_key
   current_key=chr(key)
 
-  def keyup(key):
+def keyup(key):
   global current_key
   current_key=''
   
